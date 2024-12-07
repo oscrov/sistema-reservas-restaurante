@@ -1,0 +1,17 @@
+[
+    {
+        "numero": 1,
+        "capacidad": 4,
+        "disponible": true
+    },
+    {
+        "numero": 2,
+        "capacidad": 2,
+        "disponible": false
+    },
+    {
+        "numero": 3,
+        "capacidad": 6,
+        "disponible": true
+    }
+]
